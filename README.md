@@ -1,0 +1,2 @@
+# exercicios_bd
+ 
